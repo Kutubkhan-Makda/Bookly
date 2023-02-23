@@ -24,5 +24,8 @@
 }
 
 html{
-    
+    font-size: 62.5%;
+    overflow-x: hidden;
+    scroll-padding-top: 5rem;
+    scroll-behavior: smooth;
 }
