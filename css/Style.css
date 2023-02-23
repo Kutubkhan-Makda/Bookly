@@ -74,4 +74,18 @@ html::-webkit-scrollbar-thumb{
 .header .header-1 .search-form input{
     font-size: 1.6rem;
     padding: 0 1.2rem;
+    height: 100%;
+    width: 100%;
+    text-transform: none;
+    color: var(--black);
+}
+
+.header .header-1 .search-form label{
+    font-size: 2.5rem;
+    padding-right: 1.5rem;
+    color: var(--black);
+}
+
+.header .header-1 .search-form label:hover{
+    color: var(--green);
 }
