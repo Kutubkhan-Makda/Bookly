@@ -135,6 +135,31 @@ html::-webkit-scrollbar-thumb{
     z-index: 1000;
 }
 
-body{
-    height: 300rem;
+
+
+
+
+
+
+
+
+@media (max-width:991px) {
+    html{
+        font-size: 55%;
+    }
+
+    .header .header-1{
+        padding: 2rem;
+    }
+}
+
+
+@media (max-width:450px) {
+    html{
+        font-size: 55%;
+    }
+
+    .header .header-1{
+        padding: 2rem;
+    }
 }
