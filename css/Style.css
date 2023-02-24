@@ -154,12 +154,23 @@ html::-webkit-scrollbar-thumb{
 }
 
 
-@media (max-width:450px) {
-    html{
-        font-size: 55%;
+@media (max-width:768px){
+    .header .header-2{
+        display: none;
     }
 
     .header .header-1{
-        padding: 2rem;
+        box-shadow: var(--box-shadow) ;
+    }
+
+    .header .header-1 .search-form{
+        
+    }
+}
+
+
+@media (max-width:450px) {
+    html{
+        font-size: 50%;
     }
 }
