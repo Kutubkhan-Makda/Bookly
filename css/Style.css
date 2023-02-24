@@ -126,3 +126,7 @@ html::-webkit-scrollbar-thumb{
 .header .header-2 .navbar a:hover{
     background: var(--dark-color);
 }
+
+body{
+    height: 300rem;
+}
