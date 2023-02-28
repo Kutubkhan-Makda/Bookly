@@ -156,6 +156,24 @@ html::-webkit-scrollbar-thumb{
     background: var(--dark-color);
 }
 
+.login-form-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(255, 255, 255, 9);
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 10000;
+}
+
+
+
+
+
+
+
+
 
 
 
