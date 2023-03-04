@@ -189,6 +189,16 @@ html::-webkit-scrollbar-thumb{
 .login-form-container form span{
     display: block;
     font-size: 1.5rem;
+    padding-top: 1rem;
+}
+
+.login-form-container form .box{
+    margin: .7rem 0;
+    font-size: 1.6rem;
+    border: var(--border);
+    border-radius: 0.5rem;
+    padding: 1rem 1.2rem;
+    color: var(--black);
 }
 
 
