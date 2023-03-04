@@ -239,6 +239,17 @@ html::-webkit-scrollbar-thumb{
     margin: 1.5rem 0;
 }
 
+.login-form-container form p{
+    padding-top: .8rem;
+    color: var(--light-color);
+    font-size: 1.5rem;
+}
+
+.login-form-container form p a{
+    color: var(--green);
+    text-decoration: underline;
+}
+
 
 
 
