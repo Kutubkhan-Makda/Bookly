@@ -180,7 +180,15 @@ html::-webkit-scrollbar-thumb{
 }
 
 .login-form-container form h3{
-    
+    font-size: 2.5rem;
+    text-transform: uppercase;
+    color: var(--black);
+    text-align: center;
+}
+
+.login-form-container form span{
+    display: block;
+    font-size: 1.5rem;
 }
 
 
