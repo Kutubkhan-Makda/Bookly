@@ -199,6 +199,15 @@ html::-webkit-scrollbar-thumb{
     border-radius: 0.5rem;
     padding: 1rem 1.2rem;
     color: var(--black);
+    text-transform: none;
+    width: 100%;
+}
+
+.login-form-container form .checkbox{
+    display: flex;
+    align-items: center;
+    gap: .5rem;
+    padding: 1rem 0;
 }
 
 
