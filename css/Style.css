@@ -42,6 +42,12 @@ html::-webkit-scrollbar-thumb{
     background: var(--black);
 }
 
+.btn{
+    margin-top: 1rem;
+    display: inline-block;
+    padding: .9rem 3rem;
+}
+
 .header .header-1{
     background: #fff;
     padding: 1.5rem 9%;
@@ -208,6 +214,12 @@ html::-webkit-scrollbar-thumb{
     align-items: center;
     gap: .5rem;
     padding: 1rem 0;
+}
+
+.login-form-container form .checkbox label{
+    font-size: 1.5rem;
+    color: var(--light-color);
+    cursor: pointer;
 }
 
 
