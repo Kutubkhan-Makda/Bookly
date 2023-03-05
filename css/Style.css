@@ -284,6 +284,18 @@ section{
     flex: 1 1 42rem;
 }
 
+.home .row .content h3{
+    color: var(--black);
+    font-size: 4.5rem;
+}
+
+.home .row .content p{
+    color: var(--light-color);
+    font-size: 1.4rem;
+    line-height: 2;
+    padding: 1rem 0;
+}
+
 .home .row .books-slider{
     flex: 1 1 42rem;
     text-align: center;
@@ -303,9 +315,8 @@ section{
     margin-top: -2rem;
 }
 
-.home .row .content h3{
-    
-}
+
+
 
 
 
