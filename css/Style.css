@@ -386,6 +386,14 @@ section{
     .header .header-1 .search-form.active{
         top: 115%;
     }
+
+    .home .row .content{
+        text-align: center;
+    }
+
+    .home .row .content h3{
+        font-size: 3.5rem;
+    }
 }
 
 
