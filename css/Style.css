@@ -315,6 +315,23 @@ section{
     margin-top: -2rem;
 }
 
+.icons-container{
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(25rem,1fr));
+    gap: 1.5rem;
+}
+
+.icons-container .icons{
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    padding: 2rem;
+}
+
+.icons-container .icons i{
+    
+}
+
 
 
 
