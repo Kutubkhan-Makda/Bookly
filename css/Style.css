@@ -329,7 +329,19 @@ section{
 }
 
 .icons-container .icons i{
-    
+    font-size: 3.5rem;
+    color: var(--green);
+}
+
+.icons-container .icons h3{
+    font-size: 2.2rem;
+    color: var(--black);
+    padding-bottom: 0.5rem;
+}
+
+.icons-container .icons p{
+    font-size: 1.4rem;
+    color: var(--light-color);
 }
 
 
