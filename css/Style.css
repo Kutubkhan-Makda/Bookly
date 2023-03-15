@@ -370,6 +370,11 @@ section{
     color: var(--light-color);
 }
 
+.featured .featured-slider .box{
+    width: 25rem;
+    margin: 2rem 0;
+}
+
 
 
 
