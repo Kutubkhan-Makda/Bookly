@@ -69,6 +69,7 @@ section{
     padding: .5rem 2rem;
     color: var(--black);
     background: #fff;
+    border: var(--border);
 }
 
 .btn{
