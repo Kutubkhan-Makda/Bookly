@@ -373,6 +373,18 @@ section{
 .featured .featured-slider .box{
     width: 25rem;
     margin: 2rem 0;
+    position: relative;
+    overflow: hidden;
+    border: var(--border);
+    text-align: center;
+}
+
+.featured .featured-slider .box:hover{
+    border: var(--border-hover);
+}
+
+.featured .featured-slider .box .image{
+    
 }
 
 
