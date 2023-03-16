@@ -400,6 +400,23 @@ section{
     right: 0;
     background: #fff;
     z-index: 1;
+    transform: translateY(-100%);
+}
+
+.featured .featured-slider .box:hover .icons{
+    
+}
+
+.featured .featured-slider .box .icons a{
+    color: var(--black);
+    font-size: 2.2rem;
+    padding:1.3rem 1.5rem;
+}
+
+.featured .featured-slider .box .icons a:hover{
+    background: var(--green);
+    color: #fff;
+
 }
 
 
