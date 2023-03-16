@@ -392,6 +392,16 @@ section{
     height: 25rem;
 }
 
+.featured .featured-slider .box .icons{
+    border-bottom: var(--border-hover);
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    background: #fff;
+    z-index: 1;
+}
+
 
 
 
