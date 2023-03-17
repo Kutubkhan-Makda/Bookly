@@ -427,6 +427,11 @@ section{
     padding: 1.5rem;
 }
 
+.featured .featured-slider .box .content h3{
+    font-size: 2rem;
+    color: var(--black);
+}
+
 
 
 
