@@ -403,7 +403,7 @@ section{
     right: 0;
     background: #fff;
     z-index: 1;
-    transform: translateY(-100%);
+    transform: translateY(-105%);
 }
 
 .featured .featured-slider .box:hover .icons{
