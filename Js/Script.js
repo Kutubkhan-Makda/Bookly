@@ -62,15 +62,22 @@ var swiper = new Swiper(".books-slider", {
         delay: 9500,
         disableOnInteraction: false,
     },
+    navigation:{
+        nextE1:".swiper-button-next",
+        prevE1:".swiper-button-prev",
+    },
     breakpoints: {
       0: {
         slidesPerView: 1,
       },
-      768: {
+      450: {
         slidesPerView: 2,
       },
-      1024: {
+      768: {
         slidesPerView: 3,
+      },
+      1024: {
+        slidesPerView: 4,
       },
     },
   });
