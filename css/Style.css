@@ -463,6 +463,17 @@ section{
     color: #fff;
 }
 
+.newsletter{
+    background: url(../Image/letter-bg.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.newsletter form{
+    
+}
+
 
 
 
