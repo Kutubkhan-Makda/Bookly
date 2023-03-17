@@ -62,9 +62,9 @@ var swiper = new Swiper(".books-slider", {
         delay: 9500,
         disableOnInteraction: false,
     },
-    navigation:{
-        nextE1:".swiper-button-next",
-        prevE1:".swiper-button-prev",
+    navigation: {
+        nextEl: ".swiper-button-next",
+        prevEl: ".swiper-button-prev",
     },
     breakpoints: {
       0: {
