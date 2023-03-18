@@ -529,7 +529,8 @@ section{
 }
 
 .arrivals .arrivals-slider .box .content .stars i{
-    font-size: 1.5rem;color: var(--green);
+    font-size: 1.5rem;
+    color: var(--green);
 }
 
 
