@@ -571,6 +571,15 @@ section{
     line-height: 2;
 }
 
+.reviews .reviews-slider .box{
+    width: 30rem;
+    border: var(--border);
+    padding: 2rem;
+}
+
+
+
+
 
 
 
