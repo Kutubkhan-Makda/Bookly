@@ -575,6 +575,18 @@ section{
     width: 30rem;
     border: var(--border);
     padding: 2rem;
+    text-align: center;
+}
+
+.reviews .reviews-slider .box:hover{
+    border: var(--border-hover);
+}
+
+.reviews .reviews-slider .box img{
+    height: 7rem;
+    width: 7rem;
+    border-radius: 50%;
+    object-fit: cover;
 }
 
 
