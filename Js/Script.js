@@ -109,6 +109,7 @@ var swiper = new Swiper(".books-slider", {
     spaceBetween:10,
     loop:true,
     centeredSlides: true,
+    grabCursor:true,
     autoplay: {
         delay: 9500,
         disableOnInteraction: false,
