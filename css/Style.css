@@ -603,7 +603,8 @@ section{
 }
 
 .reviews .reviews-slider .box .stars i{
-    
+    font-size: 1.7rem;
+    color: var(--green);
 }
 
 
