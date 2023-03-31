@@ -609,8 +609,11 @@ section{
 
 .blogs .blogs-slider .box{
     margin: 2rem 0;
-    width: 30rem;
     border: var(--border);
+}
+
+.blogs .blogs-slider .box:hover{
+    border: var(--border-hover);
 }
 
 .blogs .blogs-slider .box .image{
