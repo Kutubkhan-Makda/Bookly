@@ -572,10 +572,10 @@ section{
 }
 
 .reviews .reviews-slider .box{
-    width: 30rem;
     border: var(--border);
     padding: 2rem;
     text-align: center;
+    margin: 2rem 0;
 }
 
 .reviews .reviews-slider .box:hover{
@@ -605,6 +605,10 @@ section{
 .reviews .reviews-slider .box .stars i{
     font-size: 1.7rem;
     color: var(--green);
+}
+
+.blogs .blogs-slider .box{
+    
 }
 
 
