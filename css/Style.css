@@ -620,7 +620,13 @@ section{
 }
 
 .blogs .blogs-slider .box .image img{
-    
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+}
+
+.blogs .blogs-slider .box:hover .image img{
+    transform: scale(1.1);
 }
 
 
