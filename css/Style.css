@@ -667,6 +667,11 @@ section{
     padding: 1rem 0;
 }
 
+.footer .box-container .box a i{
+    color: var(--green);
+    padding-right: .5rem;
+}
+
 
 
 
