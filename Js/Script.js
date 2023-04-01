@@ -32,6 +32,10 @@ document.querySelector('#close-login-btn').onclick = ()=>{
     loginForm.classList.remove('active');
 }
 
+function loader(){
+  document.querySelector(".loader-container").classList.add('active')
+}
+
 
 var swiper = new Swiper(".books-slider", {
     loop:true,
