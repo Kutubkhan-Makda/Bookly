@@ -669,7 +669,34 @@ section{
 
 .footer .box-container .box a i{
     color: var(--green);
-    padding-right: .5rem;
+    padding-right: 0.5rem;
+}
+
+.footer .box-container .box a:hover i{
+    font-size: 1.9rem;
+}
+
+.footer .box-container .box .map{
+    width: 100%;
+}
+
+.footer .share{
+    
+}
+
+.footer .share a{
+    height: 5rem;
+    width: 5rem;
+    line-height: 5rem;
+    font-size: 2rem;
+    color: #fff;
+    background: var(--green);
+    margin: 0 .3rem;
+    border-radius: 50%;
+}
+
+.footer .share a:hover{
+    background: var(--black);
 }
 
 
