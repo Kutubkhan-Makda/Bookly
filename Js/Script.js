@@ -20,6 +20,7 @@ window.onload = ()=>{
     }else{
         document.querySelector('.header .header-2').classList.remove('active');
     }
+    fadeout();
 }
 
 let loginForm = document.querySelector('.login-form-container');
@@ -30,6 +31,10 @@ document.querySelector('#login-btn').onclick = ()=>{
 
 document.querySelector('#close-login-btn').onclick = ()=>{
     loginForm.classList.remove('active');
+}
+
+function fadeout(){
+  setTimeout(loader,4000);
 }
 
 function loader(){
