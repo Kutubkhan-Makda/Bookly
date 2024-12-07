@@ -834,3 +834,9 @@ section{
         font-size: 50%;
     }
 }
+
+@media (max-width:450px) {
+    .audible{
+        font-size: 50%;
+    }
+}
